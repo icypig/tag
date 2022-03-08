@@ -6,3 +6,8 @@ auto tag action testing
 checked
 
 # Minor version
+
+checked
+
+# Patch version
+
