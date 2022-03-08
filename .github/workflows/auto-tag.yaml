@@ -17,3 +17,4 @@ jobs:
         WITH_V: false
         INITIAL_VERSION: 0.0.36
         DEFAULT_BUMP: none
+        PRERELEASE_SUFFIX: SNAPSHOT
