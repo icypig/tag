@@ -16,3 +16,4 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         WITH_V: false
         INITIAL_VERSION: 0.0.36
+        DEFAULT_BUMP: none
