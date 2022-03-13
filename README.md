@@ -30,6 +30,13 @@ checked, and nothing will happen
 
 checked 
 
+## Minor version
+
+checked
+
+## Major version
+
+checked
 # Initial version
 
 0.0.36 and checked
