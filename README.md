@@ -28,7 +28,7 @@ checked, and nothing will happen
 
 ## Patch version
 
-checked
+checked 
 
 # Initial version
 
