@@ -1,20 +1,28 @@
 # tag
 auto tag action testing
 
-# Major version
+# Release workflow
+## Major version
 
 checked
 
-# Minor version
+## Minor version
 
 checked
 
-# Patch version
+## Patch version
 
 checked
 
-# None
+## None
 
 checked
+
+# Non release workflow
+
+prefix SNAPSHOT
+
 
 # Initial version
+
+0.0.36
