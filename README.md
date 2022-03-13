@@ -22,6 +22,12 @@ checked
 
 prefix SNAPSHOT
 
+# None
+
+checked, with no tag
+
+# Patch
+
 
 # Initial version
 
